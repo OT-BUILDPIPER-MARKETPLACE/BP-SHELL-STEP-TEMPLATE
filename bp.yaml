@@ -1,0 +1,4 @@
+# bp.yaml
+image:
+  name: <image-name>
+  tag: <image-tag>
